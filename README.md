@@ -1,4 +1,4 @@
-Iris or Fabric must be Installed to use this mod pack. Replace 1.20.1 folder in .minecraft/Iris-reserved folder.
+Iris or Fabric must be Installed to use this mod pack. Replace 1.20.1 folder in .minecraft/Iris-reserved folder. Can be used outside of server too. Any further information, visit https://github.com/Prosaround/Sakura-SMP/wiki to see more.
 
 This mod pack includes:
 
