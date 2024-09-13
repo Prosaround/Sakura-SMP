@@ -1,6 +1,6 @@
 Iris or Fabric must be Installed to use this mod pack. Replace 1.20.1 folder in .minecraft/Iris-reserved folder. Can be used outside of server too. Any further information, visit [Wiki](https://github.com/Prosaround/Sakura-SMP/wiki) to see more.
 
-This mod pack includes:
+***This mod pack includes:***
 
 CameraUtils
 
