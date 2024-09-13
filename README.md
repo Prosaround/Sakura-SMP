@@ -10,8 +10,6 @@ Cloth Config API
 
 Continuity
 
-Distant Horizons
-
 DynamicFPS
 
 EnchancedBlockEntities
