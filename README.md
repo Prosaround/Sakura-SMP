@@ -77,4 +77,5 @@ YetAnotherConfigLib
 Zoomify
 
 COMPATIBLE WITH 1.20.1 
+
 Any other versions might break or crash your game.
