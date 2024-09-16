@@ -1,6 +1,12 @@
-Iris or Fabric must be Installed to use this mod pack. Replace 1.20.1 folder in .minecraft/Iris-reserved folder. Can be used outside of server too. Any further information, visit [Wiki](https://github.com/Prosaround/Sakura-SMP/wiki) to see more.
+# Sakura SMP Modpack
 
-***This mod pack includes:***
+***COMPATIBLE WITH 1.20.1***
+
+Any other versions might break or crash your game.
+
+Iris or Fabric must be installed to use this modpack, with both needing Fabric version 0.15.11 (latest tested). We also recommend using JAVA 17 for compatibility reasons. If you are using Fabric, make sure to put the mods (.jar files) in the root Minecraft folder, at .minecraft/mods. If you are using Iris (Iris installation must be on Fabric 0.15.11), replace 1.20.1 folder in .minecraft/Iris-reserved folder. Can be used outside of the server as well. For any further information, visit the [Wiki](https://github.com/Prosaround/Sakura-SMP/wiki)!
+
+### ***This mod pack includes:***
 
 CameraUtils
 
@@ -73,7 +79,3 @@ Sushi Bar
 YetAnotherConfigLib
 
 Zoomify
-
-***COMPATIBLE WITH 1.20.1***
-
-Any other versions might break or crash your game.
